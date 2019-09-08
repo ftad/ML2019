@@ -45,8 +45,9 @@
 
 | Дата  | Занятие | Материалы |
 | ------------- | ------------- | ------------- |
-| *07.09.2019*  | Введение в машинное обучение.<br> Основы языка python. | |
+| *07.09.2019*  | Введение в машинное обучение.<br> Основы языка python. | [Презентация по введению](https://github.com/ftad/ML2018/blob/master/materials/lesson1/lecture_intro.pdf) (по материалам Е. Соколова) <br> [Конспект по введению](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture01-intro.pdf)|
 
 
 
-## Практические задания
+## Задания
+[Домашнее задание 1: Numpy, Pandas, Matplotlib.](https://github.com/ftad/ML2019/blob/master/materials/homeworks/homework-practice-01.ipynb) Дедлайн: 15.09.19  23:59 
