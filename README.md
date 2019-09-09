@@ -48,7 +48,7 @@
 
 | Дата  | Занятие | Материалы |
 | ------------- | ------------- | ------------- |
-| *07.09.2019*  | Введение в машинное обучение.<br> Основы языка python. | [Презентация по введению](https://github.com/ftad/ML2018/blob/master/materials/lesson1/lecture_intro.pdf) (по материалам Е. Соколова) <br> [Конспект по введению](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture01-intro.pdf) <br> [Ноутбук семинара](https://colab.research.google.com/drive/1y8maNI4BjvwPD_SkILeBWLP4rWmLIhhh#scrollTo=8qbnwjTV22Zg)|
+| *07.09.2019*  | Введение в машинное обучение.<br> Основы языка python. | [Презентация по введению](https://github.com/ftad/ML2018/blob/master/materials/lesson1/lecture_intro.pdf) (по материалам Е. Соколова) <br> [Конспект по введению](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture01-intro.pdf) <br> [Ноутбук семинара](https://github.com/ftad/ML2019/blob/master/materials/lesson1/seminar_01.ipynb)|
 
 
 
