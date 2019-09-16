@@ -49,7 +49,7 @@
 | Дата  | Занятие | Материалы |
 | ------------- | ------------- | ------------- |
 | *07.09.2019*  | Введение в машинное обучение.<br> Основы языка python. | [Презентация по введению](https://github.com/ftad/ML2018/blob/master/materials/lesson1/lecture_intro.pdf) (по материалам Е. Соколова) <br> [Конспект по введению](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture01-intro.pdf) <br> [Ноутбук семинара](https://github.com/ftad/ML2019/blob/master/materials/lesson1/seminar_01.ipynb)|
-| *14.09.2019*  | Линейная регрессия.<br>Градиентный спуск.<br> Знакомство с sklearn. | <br> Конспект по линейной регрессии: [#1](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture02-linregr.pdf), [#2](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture03-linregr.pdf) <br> [Ноутбук семинара](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem02-sklearn-linreg.ipynb)|
+| *14.09.2019*  | Линейная регрессия.<br>Градиентный спуск.<br> Знакомство с sklearn. | Конспект по линейной регрессии: [#1](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture02-linregr.pdf), [#2](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture03-linregr.pdf) <br> [Ноутбук семинара](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem02-sklearn-linreg.ipynb)|
 
 
 
