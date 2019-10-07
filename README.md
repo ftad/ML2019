@@ -56,7 +56,12 @@
 
 
 
-## Задания
+## Практические задания
 [Домашнее задание 1: Numpy, Pandas, Matplotlib.](https://github.com/ftad/ml2019/blob/80dd971bca71bc34ae05c72b62bd295eb27b72a6/materials/homeworks-practice/homework-practice-01.ipynb) Дедлайн: 15.09.19  23:59 
 
 [Домашнее задание 2: Линейная регрессия.](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-practice/homework-practice-02.ipynb) Дедлайн: 01.10.2019 23:59
+
+[Домашнее задание 3: Градиентный спуск.](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-practice/homework-practice-03.ipynb) Дедлайн: 14.10.2019 07:59
+
+## Теоретические задания
+[Домашнее задание 1: Векторное дифференцирование.](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-theory/homework-theory-01-linregr.pdf)
