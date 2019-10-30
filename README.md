@@ -54,6 +54,7 @@
 | *28.09.2019*  | Линейная классификацмя.<br>Метрики качества классификации. | [Конспект лекции](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture04-linclass.pdf) <br> [Ноутбук семинара](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem04-features.ipynb)<br>  [Конспект семинара](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem04-features.pdf)|
 |*05.10.2019*  | Логистическая регрессия. SVM.<br> Многоклассовая классификация | [Конспект лекции](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem05-linclass-metrics.pdf) <br> [Конспект семинара ROC-AUC.](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem05-linclass-metrics.pdf)|
 |*12.10.2019*  | Метрики для многоклассовой классификации.<br> Решающие деревья | [Конспект лекции по многоклассовой классификации](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture06-linclass.pdf) <br> [Конспект лекции по деревьям](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture07-trees.pdf) <br> [Задачи по деревьям](https://github.com/esokolov/ml-minor-hse/blob/master/colloquium-2017/colloquium_minor_problems_trees.ipynb) <br> [Ноутбук по деревьям](https://github.com/AnastasiaRysmyatova/notebooks/blob/master/decision_trees.ipynb)|
+|*19.10.2019*  | Решающие деревья <br> Bias–variance tradeoff | |
 
 
 
