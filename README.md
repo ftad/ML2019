@@ -10,6 +10,8 @@
 
 Инвайт для [Anytask](https://anytask.org): pjw2559
 
+[Вопросы контрольной работы](https://docs.google.com/document/d/1xSaTtFqXkj1hG0Da7lX8GkGn7kaqAxWGYflLLvKf5z0/edit)
+
 ### Правила выставления оценки
 В курсе предусмотрено несколько форм контроля знания:
 
