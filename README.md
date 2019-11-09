@@ -54,7 +54,8 @@
 | *28.09.2019*  | Линейная классификацмя.<br>Метрики качества классификации. | [Конспект лекции](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture04-linclass.pdf) <br> [Ноутбук семинара](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem04-features.ipynb)<br>  [Конспект семинара](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem04-features.pdf)|
 |*05.10.2019*  | Логистическая регрессия. SVM.<br> Многоклассовая классификация | [Конспект лекции](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem05-linclass-metrics.pdf) <br> [Конспект семинара ROC-AUC.](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem05-linclass-metrics.pdf)|
 |*12.10.2019*  | Метрики для многоклассовой классификации.<br> Решающие деревья | [Конспект лекции по многоклассовой классификации](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture06-linclass.pdf) <br> [Конспект лекции по деревьям](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture07-trees.pdf) <br> [Задачи по деревьям](https://github.com/esokolov/ml-minor-hse/blob/master/colloquium-2017/colloquium_minor_problems_trees.ipynb) <br> [Ноутбук по деревьям](https://github.com/AnastasiaRysmyatova/notebooks/blob/master/decision_trees.ipynb)|
-|*19.10.2019*  | Решающие деревья <br> Bias–variance tradeoff | |
+|*19.10.2019*  | Решающие деревья <br> Bias–variance tradeoff. | [конспект по Bias–variance](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture08-ensembles.pdf) |
+|*02.10.2019*  | Случайный лес. Разбор ДЗ. Решение задач по Bias–variance tradeoff.  | [конспект по Random Forest](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture08-ensembles.pdf) <br> [задачи](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem08-bvd.pdf)|
 
 
 
@@ -68,4 +69,11 @@
 [Домашнее задание 4: Линейная классификация.](https://nbviewer.jupyter.org/github/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-practice/homework-practice-04.ipynb) Дедлайн: 11.11.2019 07:59
 
 ## Теоретические задания
-[Домашнее задание 1: Векторное дифференцирование.](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-theory/homework-theory-01-linregr.pdf) Дедлайн: 19.10.2019 23:59
+[Домашнее задание 1: Векторное дифференцирование (опциональное).](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-theory/homework-theory-01-linregr.pdf) Дедлайн: 19.10.2019 23:59
+
+[Домашнее задание 2: Метрики (опциональное).](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-theory/homework-theory-02-linclass.pdf) Дедлайн: 17.11.2019 23:59
+
+[Домашнее задание 3: Деревья (опциональное).](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-theory/homework-theory-03-trees.pdf) Дедлайн: 17.11.2019 23:59
+
+[Домашнее задание 4: Деревья (опциональное).](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-theory/homework-theory-04-bvd.pdf) Дедлайн: 17.11.2019 23:59
+
