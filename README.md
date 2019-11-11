@@ -77,5 +77,5 @@
 
 [Домашнее задание 3: Деревья (опциональное).](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-theory/homework-theory-03-trees.pdf) Дедлайн: 17.11.2019 23:59
 
-[Домашнее задание 4: Деревья (опциональное).](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-theory/homework-theory-04-bvd.pdf) Дедлайн: 17.11.2019 23:59
+[Домашнее задание 4: Bias–variance tradeoff (опциональное).](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-theory/homework-theory-04-bvd.pdf) Дедлайн: 17.11.2019 23:59
 
