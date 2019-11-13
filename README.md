@@ -81,3 +81,6 @@
 
 [Домашнее задание 4: Bias–variance tradeoff (опциональное).](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-theory/homework-theory-04-bvd.pdf) Дедлайн: 24.11.2019 23:59
 
+## Конкурс
+[Классификация текстов](https://www.kaggle.com/t/78b4150e88c84935b37e550fbb636a4f)
+
