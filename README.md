@@ -66,7 +66,7 @@
 
 [Домашнее задание 2: Линейная регрессия.](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-practice/homework-practice-02.ipynb) Дедлайн: 01.10.2019 23:59
 
-[Домашнее задание 3: Градиентный спуск.](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-practice/homework-practice-03.ipynb) Дедлайн: 14.10.2019 07:59
+[Домашнее задание 3: Градиентный спуск.](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-practice/homework-practice-03.ipynb) Дедлайн: 15.10.2019 07:59
 
 [Домашнее задание 4: Линейная классификация.](https://nbviewer.jupyter.org/github/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-practice/homework-practice-04.ipynb) Дедлайн: 11.11.2019 07:59
 
