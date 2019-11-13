@@ -75,9 +75,9 @@
 ## Теоретические задания
 [Домашнее задание 1: Векторное дифференцирование (опциональное).](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-theory/homework-theory-01-linregr.pdf) Дедлайн: 19.10.2019 23:59
 
-[Домашнее задание 2: Метрики (опциональное).](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-theory/homework-theory-02-linclass.pdf) Дедлайн: 17.11.2019 23:59
+[Домашнее задание 2: Метрики (опциональное).](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-theory/homework-theory-02-linclass.pdf) Дедлайн: 24.11.2019 23:59
 
-[Домашнее задание 3: Деревья (опциональное).](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-theory/homework-theory-03-trees.pdf) Дедлайн: 17.11.2019 23:59
+[Домашнее задание 3: Деревья (опциональное).](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-theory/homework-theory-03-trees.pdf) Дедлайн: 24.11.2019 23:59
 
-[Домашнее задание 4: Bias–variance tradeoff (опциональное).](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-theory/homework-theory-04-bvd.pdf) Дедлайн: 17.11.2019 23:59
+[Домашнее задание 4: Bias–variance tradeoff (опциональное).](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-theory/homework-theory-04-bvd.pdf) Дедлайн: 24.11.2019 23:59
 
