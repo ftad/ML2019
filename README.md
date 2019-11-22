@@ -58,6 +58,7 @@
 |*12.10.2019*  | Метрики для многоклассовой классификации.<br> Решающие деревья | [Конспект лекции по многоклассовой классификации](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture06-linclass.pdf) <br> [Конспект лекции по деревьям](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture07-trees.pdf) <br> [Задачи по деревьям](https://github.com/esokolov/ml-minor-hse/blob/master/colloquium-2017/colloquium_minor_problems_trees.ipynb) <br> [Ноутбук по деревьям](https://github.com/AnastasiaRysmyatova/notebooks/blob/master/decision_trees.ipynb)|
 |*19.10.2019*  | Решающие деревья <br> Bias–variance tradeoff. | [конспект по Bias–variance](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture08-ensembles.pdf) |
 |*02.10.2019*  | Случайный лес. Разбор ДЗ. Решение задач по Bias–variance tradeoff.  | [конспект по Random Forest](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture08-ensembles.pdf) <br> [задачи](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem08-bvd.pdf)|
+|*15.10.2019*  | Градиентный бустинг.  | [конспект](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture09-ensembles.pdf) <br> [ноутбук](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem09-gbm-part2.ipynb)<br> [задачи](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem09-gbm-part1.pdf)|
 
 
 
