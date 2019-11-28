@@ -59,7 +59,7 @@
 |*19.10.2019*  | Решающие деревья <br> Bias–variance tradeoff. | [конспект по Bias–variance](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture08-ensembles.pdf) |
 |*02.11.2019*  | Случайный лес. Разбор ДЗ. Решение задач по Bias–variance tradeoff.  | [конспект по Random Forest](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture08-ensembles.pdf) <br> [задачи](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem08-bvd.pdf)|
 |*16.11.2019*  | Градиентный бустинг.  | [конспект](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture09-ensembles.pdf) <br> [ноутбук](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem09-gbm-part2.ipynb)<br> [задачи](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem09-gbm-part1.pdf)|
-|*23.11.2019*  | XGBoost, CatBoost, LightGBM.<br>Кластеризация.| [конспект по XGBoost](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture10-ensembles.pdf) <br> [Конспект по кластеризации](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture11-unsupervised.pdf)|
+|*23.11.2019*  | XGBoost, CatBoost, LightGBM.<br>Кластеризация.| [конспект по XGBoost](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture10-ensembles.pdf) <br> [конспект по кластеризации](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture11-unsupervised.pdf)|
 
 
 
