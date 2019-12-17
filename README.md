@@ -60,6 +60,8 @@
 |*02.11.2019*  | Случайный лес. Разбор ДЗ. Решение задач по Bias–variance tradeoff.  | [конспект по Random Forest](https://github.com/esokolov/ml-course-hse/blob/master/2018-fall/lecture-notes/lecture08-ensembles.pdf) <br> [задачи](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem08-bvd.pdf)|
 |*16.11.2019*  | Градиентный бустинг.  | [конспект](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture09-ensembles.pdf) <br> [ноутбук](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem09-gbm-part2.ipynb)<br> [задачи](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/seminars/sem09-gbm-part1.pdf)|
 |*23.11.2019*  | XGBoost, CatBoost, LightGBM.<br>Кластеризация.| [конспект по XGBoost](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture10-ensembles.pdf) <br> [конспект по кластеризации](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture11-unsupervised.pdf)|
+|*30.11.2019*  | Подготовка к контрольной. ||
+|*14.12.2019*  |PCA. <br> Рекомендательные системы. ||
 
 
 
@@ -75,6 +77,8 @@
 [Домашнее задание 5: Решающее дерево.](https://github.com/esokolov/ml-course-hse/tree/master/2019-fall/homeworks-practice/homework-practice-05) Дедлайн: 25.11.2019 01:59
 
 [Домашнее задание 6: Разложение ошибки на смещение и разброс.](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-practice/homework-practice-06.ipynb) Дедлайн: 02.12.2019 07:59
+
+[Домашнее задание 7: Градиентный бустинг.](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-practice/homework-practice-07.ipynb) Дедлайн: 16.12.2019 02:00
 
 ## Теоретические задания
 [Домашнее задание 1: Векторное дифференцирование (опциональное).](https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/homeworks-theory/homework-theory-01-linregr.pdf) Дедлайн: 19.10.2019 23:59
